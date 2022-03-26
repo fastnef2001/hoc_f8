@@ -1,0 +1,32 @@
+{
+  "name": "hoc-f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastnef2001/hoc_f8.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "fastnef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fastnef2001/hoc_f8/issues"
+  },
+  "homepage": "https://github.com/fastnef2001/hoc_f8#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
